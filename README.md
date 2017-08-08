@@ -1,3 +1,5 @@
+> Find important links in the [wiki](https://github.com/sf-wdi-40/schedule/wiki)!
+
 ## Week 1: Welcome to WDI!
 <table>
   <tr>
