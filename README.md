@@ -1,4 +1,4 @@
-> Find important links in the [wiki](https://github.com/sf-wdi-40/schedule/wiki)!
+> Find important links [here](important-info.md)!
 
 ## Week 1: Welcome to WDI!
 <table>
