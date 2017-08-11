@@ -56,7 +56,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 1 - Monday Afternoon 1 -->
-      HTML/CSS Review
+      <a href="https://github.com/sf-wdi-40/html-css-review">HTML/CSS Review</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 1 -->
