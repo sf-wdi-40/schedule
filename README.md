@@ -34,7 +34,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 1 - Monday Morning 2 -->
-      Icebreakers
+      Icebreakers & Culture
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
       Git & GitHub
@@ -102,19 +102,19 @@
   <tr>
     <td><strong>HW</strong></td>
     <td> <!-- Week 1 - Monday Homework -->
-      <a href="/blob/master/homework.md">See HW page</a>
+      <a href="homework.md">See HW page</a>
     </td>
     <td> <!-- Week 1 - Tuesday Homework -->
-      <a href="/blob/master/homework.md">See HW page</a>
+      <a href="homework.md">See HW page</a>
     </td>
     <td> <!-- Week 1 - Wednesday Homework -->
-      <a href="/blob/master/homework.md">See HW page</a>
+      <a href="homework.md">See HW page</a>
     </td>
     <td> <!-- Week 1 - Thursday Homework -->
-      <a href="/blob/master/homework.md">See HW page</a>
+      <a href="homework.md">See HW page</a>
     </td>
     <td> <!-- Week 1 - Friday -->
-      <a href="/blob/master/homework.md">See HW page</a>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
