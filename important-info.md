@@ -13,7 +13,7 @@ Class starts at 9am; being more than 15 minutes late counts as a tardy, as does 
 ### Homework
 We will post the lecture materials each night for the next day. It's a good idea to skim or read those materials, as they'll prepare you for the lecture we'll do in class. However, you should NOT start working on labs or writing code based on the next day's materials; if you do, you'll lose the opportunity to work on that lab with your classmates the next day.
 
-When we have other homework that we want you to turn in, it will be posted on the course schedule (the README.md file in this repo). It is your responsibility to check the schedule and complete the homework listed there.
+You should also be checking the [homework page](homework.md) every night. That's where we'll include which labs you should complete and any additional tasks that will be helpful to you for the next day.
 
 ### Feedback
 We will provide significant written feedback on your major projects, and a mixture of written and verbal feedback on homework assignments and weekend labs. Anything that is on GitHub is "fair game" for us to look at and give you feedback on, or for a code review.
