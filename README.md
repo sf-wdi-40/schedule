@@ -16,7 +16,7 @@
       Orientation
     </td>
     <td> <!-- Week 1 - Tuesday Morning 1 -->
-      Kyrel
+      <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a> and starting <a href="https://github.com/SF-WDI-LABS/personal-portfolio">Portfolio</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 1 -->
@@ -38,7 +38,7 @@
       Icebreakers & Culture
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a> and starting <a href="https://github.com/SF-WDI-LABS/personal-portfolio">Portfolio</a>
+      Kyrel
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
