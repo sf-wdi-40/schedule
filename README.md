@@ -61,7 +61,7 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 1 -->
-      JS Types & Variables
+      <a href="https://github.com/SF-WDI-LABS/js-data-types">JS Types & Variables</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon 1 -->
@@ -84,7 +84,7 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Tuesday Afternoon 2 -->
-      JS Control Flow
+      <a href="https://github.com/SF-WDI-LABS/js-control-flow">JS Control Flow</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon 2 -->
