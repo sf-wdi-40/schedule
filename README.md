@@ -16,7 +16,7 @@
       Orientation
     </td>
     <td> <!-- Week 1 - Tuesday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a> and starting <a href="https://github.com/SF-WDI-LABS/personal-portfolio">Portfolio</a>
+      <a href="https://github.com/SF-WDI-LABS/git-github">Git & GitHub</a> and starting <a href="https://github.com/SF-WDI-LABS/personal-portfolio">Personal Portfolio</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 1 -->
