@@ -38,7 +38,7 @@
       Icebreakers & Culture
     </td>
     <td> <!-- Week 1 - Tuesday Morning 2 -->
-      Kyrel
+      <a href="https://github.com/sf-wdi-40/kyrel">Kyrel</a>
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
