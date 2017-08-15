@@ -1,5 +1,7 @@
 > Find important links [here](important-info.md)!
 
+# Matt was here
+
 ## Week 1: Welcome to WDI!
 <table>
   <tr>
