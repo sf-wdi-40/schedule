@@ -42,7 +42,7 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Morning 2 -->
-      JS Objects
+      <a href="https://github.com/SF-WDI-LABS/js-objects">JS Objects</a>
       (AS)
     </td>
     <td> <!-- Week 1 - Thursday Morning 2 -->
@@ -65,7 +65,7 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon 1 -->
-      Functions & Debugging
+      <a href="https://github.com/sf-wdi-40/pseudocode">Functions & Debugging</a>
       (AS/Matt)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 1 -->
