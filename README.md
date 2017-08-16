@@ -88,7 +88,7 @@
       (MF)
     </td>
     <td> <!-- Week 1 - Wednesday Afternoon 2 -->
-      JS Basics problem set
+      <a href="https://github.com/SF-WDI-LABS/problem-set-js-basics"JS Basics problem set
       (Matt)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 2 -->
