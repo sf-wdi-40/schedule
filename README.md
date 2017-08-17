@@ -46,7 +46,7 @@
       (AS)
     </td>
     <td> <!-- Week 1 - Thursday Morning 2 -->
-      Kyrel
+      <a href="https://github.com/sf-wdi-40/jquery-part-1">jQuery Part 1</a>
       (AS)
     </td>
     <td> <!-- Week 1 - Friday Morning 2 -->
@@ -69,7 +69,7 @@
       (AS/Matt)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 1 -->
-      CSS & Selectors
+      <a href="https://github.com/sf-wdi-40/jquery-part-2">jQuery Part 2</a>
       (AS)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
@@ -92,7 +92,7 @@
       (Matt)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 2 -->
-      Mr. Fox lab
+      Gettysburg Address Project
       (AS)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
