@@ -1,5 +1,124 @@
 > Find important links [here](important-info.md)!
 
+## Week 2:
+<table>
+  <tr>
+    <td>August 21-25</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 2 - Monday Morning 1 -->
+      Personal Portfolio Code Review
+      (MF)
+    </td>
+    <td> <!-- Week 2 - Tuesday Morning 1 -->
+      Recap Iterators
+      (MF)
+    </td>
+    <td> <!-- Week 2 - Wednesday Morning 1 -->
+      Racing game
+    </td>
+    <td> <!-- Week 2 - Thursday Morning 1 -->
+      Outcomes
+      (Andy)
+    </td>
+    <td> <!-- Week 2 - Friday Morning 1 -->
+      GeoQuakes Review
+      (AS)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 2 - Monday Morning 2 -->
+      Functions
+      (MF)
+    </td>
+    <td> <!-- Week 2 - Tuesday Morning 2 -->
+      HTML Forms
+      (MF)
+    </td>
+    <td> <!-- Week 2 - Wednesday Morning 2 -->
+      Racing game
+    </td>
+    <td> <!-- Week 2 - Thursday Morning 2 -->
+      AJAX
+      (AS)
+    </td>
+    <td> <!-- Week 2 - Friday Morning 2 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 2 - Monday Afternoon 1 -->
+      Functions & Intro Iterators
+      (MF)
+    </td>
+    <td> <!-- Week 2 - Tuesday Afternoon 1 -->
+      DOM Events Recap & Adventures
+      (MF)
+    </td>
+    <td> <!-- Week 2 - Wednesday Afternoon 1 -->
+      Racing game
+    </td>
+    <td> <!-- Week 2 - Thursday Afternoon 1 -->
+      Giphy
+      (AS)
+    </td>
+    <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
+      The Node REPL
+      (AS)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 2 - Monday Afternoon 2 -->
+      Iterators jigsaw (MF)
+    </td>
+    <td> <!-- Week 2 - Tuesday Afternoon 2 -->
+      Events lab
+      (MF)
+    </td>
+    <td> <!-- Week 2 - Wednesday Afternoon 2 -->
+      Racing game
+      (MF)
+    </td>
+    <td> <!-- Week 2 - Thursday Afternoon 2 -->
+      GeoQuakes
+      (AS)
+    </td>
+    <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
+      Node Modules
+      (AS)
+    </td>
+  </tr>
+  <tr>
+  <td><strong>HW</strong></td>
+  <td> <!-- Week 2 - Monday Homework -->
+    <a href="homework.md">See HW page</a>
+  </td>
+  <td> <!-- Week 2 - Tuesday Homework -->
+    <a href="homework.md">See HW page</a>
+  </td>
+  <td> <!-- Week 2 - Wednesday Homework -->
+    <a href="homework.md">See HW page</a>
+  </td>
+  <td> <!-- Week 2 - Thursday Homework -->
+    <a href="homework.md">See HW page</a>
+  </td>
+  <td> <!-- Week 2 - Friday -->
+    <a href="homework.md">See HW page</a>
+  </td>
+  </tr>
+</table>
+
+
 ## Week 1: Welcome to WDI!
 <table>
   <tr>
