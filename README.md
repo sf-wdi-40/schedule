@@ -35,11 +35,11 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 2 - Monday Morning 2 -->
-      Functions
+      <a href="https://github.com/SF-WDI-LABS/js-functions">Functions</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 -->
-      HTML Forms
+      <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
@@ -57,11 +57,11 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 2 - Monday Afternoon 1 -->
-      Functions & Intro Iterators
+      <a href="https://github.com/SF-WDI-LABS/functions-exercises">Functions Training</a> & Intro <a href="https://github.com/SF-WDI-LABS/iterator-methods">Iterators</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
-      DOM Events Recap & Adventures
+      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events</a> Recap & Adventures
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
@@ -82,7 +82,7 @@
       Iterators jigsaw (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
-      Events lab
+      <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">Events lab</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 2 -->
