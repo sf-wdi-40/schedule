@@ -104,24 +104,20 @@
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 12 - Monday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 12 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 12 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 12 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 12 - Friday -->
-      <!-- BLANK -->
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
@@ -231,24 +227,20 @@
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 11 - Monday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 11 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 11 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 11 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 11 - Friday -->
-      <!-- BLANK -->
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
@@ -358,24 +350,20 @@
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 10 - Monday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 10 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 10 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 10 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 10 - Friday -->
-      <!-- BLANK -->
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
@@ -485,24 +473,20 @@
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 9 - Monday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 9 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 9 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 9 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 9 - Friday -->
-      <!-- BLANK -->
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
@@ -612,24 +596,20 @@
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 8 - Monday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 8 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 8 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 8 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 8 - Friday -->
-      <!-- BLANK -->
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
@@ -739,24 +719,20 @@
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 7 - Monday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 7 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 7 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 7 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 7 - Friday -->
-      <!-- BLANK -->
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
@@ -866,24 +842,20 @@
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 6 - Monday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 6 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 6 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 6 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 6 - Friday -->
-      <!-- BLANK -->
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
@@ -993,24 +965,20 @@
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 5 - Monday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 5 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 5 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 5 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 5 - Friday -->
-      <!-- BLANK -->
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
@@ -1116,23 +1084,20 @@
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 4 - Monday Homework -->
-      HOLIDAY
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 4 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 4 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 4 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 4 - Friday -->
-      <!-- BLANK -->
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
@@ -1242,24 +1207,20 @@
   </tr>
   <tr>
     <td><strong>HW</strong></td>
-    <td> <!-- Week 3 - Monday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 3 - Tuesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 3 - Wednesday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 3 - Thursday Homework -->
-      Reading
-      (tbd)
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
-    <td> <!-- Week 3 - Friday -->
-      <!-- BLANK -->
+    <td>
+      <a href="homework.md">See HW page</a>
     </td>
   </tr>
 </table>
