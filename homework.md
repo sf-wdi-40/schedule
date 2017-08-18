@@ -1,3 +1,8 @@
+## Friday, August 18
+1. Loop through some data and add it to your portfolio. See the [instructions here](https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md)!
+2. Find a fun component or javascript plugin in [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) and learn about it. Write some code to make it work or better yet, incorporate it into your portfolio.
+3. Review. If you haven't finished any of the labs or homework assignments from this week, go ahead and do that!
+
 ## Thursday, August 17
 1. The jQuery Playground! Clone this repo [jQuery Ultra Super Fun Times](https://github.com/SF-WDI-LABS/jquery-playground-lab) and enter the playground!
 2. Work on your portfolio!
