@@ -73,8 +73,9 @@
       (AS)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 1 / Weekend Lab -->
-      Functions review
-      (AS)
+      <a
+        href="https://github.com/SF-WDI-LABS/json-to-html-with-mr-fox">Fantastic Mr. Fox</a>
+      (MS/MF)
     </td>
   </tr>
   <tr>
