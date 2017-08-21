@@ -13,7 +13,7 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 2 - Monday Morning 1 -->
-      Personal Portfolio Code Review
+      <a href="https://github.com/SF-WDI-LABS/code-review">Personal Portfolio Code Review</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 1 -->
