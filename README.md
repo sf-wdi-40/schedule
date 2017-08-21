@@ -61,7 +61,7 @@
       (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events</a> Recap & Adventures
+      <a href="https://github.com/SF-WDI-LABS/dom-events-jquery">DOM Events</a> Recap & <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">Lab</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
@@ -82,7 +82,7 @@
       Iterators jigsaw (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/jquery-events-lab">Events lab</a>
+      <a href="https://github.com/SF-WDI-LABS/tic-tac-toe">Tic Tac Toe</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 2 -->
