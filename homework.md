@@ -1,3 +1,7 @@
+## Monday, August 21
+1. Your portfolio should be as complete as possible. We will go over your code 1:1 on Wednesday so make sure that the most recent code has been pushed to your repo and that your link is working and included in the [submission doc](https://docs.google.com/spreadsheets/d/1lmN_MfcIDgZsP5_2Tf9JJbpsW4vhxYmM00rImfgVSbk/edit#gid=1389500000) by no later than tomorrow morning at start of class.
+2. The laundry Lab. Clone down [this](https://github.com/SF-WDI-LABS/laundry-lab) repo to your computer. The instructions are pretty simple, you're going to be writing functions to help "clean" some text. See if you can get through all of the bonuses.
+
 ## Friday, August 18
 1. Loop through some data and add it to your portfolio. See the [instructions here](https://github.com/SF-WDI-LABS/personal-portfolio/blob/master/part-2.md)!
 2. Find a fun component or javascript plugin in [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/) and learn about it. Write some code to make it work or better yet, incorporate it into your portfolio.
