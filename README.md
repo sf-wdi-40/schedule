@@ -21,7 +21,7 @@
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 1 -->
-      Racing game
+      <a href="https://github.com/sf-wdi-40/project-0">Racing game</a>
     </td>
     <td> <!-- Week 2 - Thursday Morning 1 -->
       Outcomes
@@ -43,7 +43,7 @@
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
-      Racing game
+      <a href="https://github.com/sf-wdi-40/project-0">Racing game</a>
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
       AJAX
@@ -65,7 +65,7 @@
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 1 -->
-      Racing game
+      <a href="https://github.com/sf-wdi-40/project-0">Racing game</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 1 -->
       Giphy
@@ -86,8 +86,7 @@
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Afternoon 2 -->
-      Racing game
-      (MF)
+      <a href="https://github.com/sf-wdi-40/project-0">Racing game</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
       GeoQuakes
