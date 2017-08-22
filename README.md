@@ -39,7 +39,7 @@
       (MF)
     </td>
     <td> <!-- Week 2 - Tuesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a>
+      <a href="https://github.com/SF-WDI-LABS/html-forms">HTML Forms</a> and <a href="https://github.com/SF-WDI-LABS/html-forms-lab">Lab</a>
       (MF)
     </td>
     <td> <!-- Week 2 - Wednesday Morning 2 -->
