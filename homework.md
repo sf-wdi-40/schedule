@@ -1,3 +1,14 @@
+## Thursday, August 24
+1. [GeoQuakes](https://github.com/SF-WDI-LABS/geoquakes)! It's awesome and fun!
+
+## Wednesday, August 23
+1. Work on your racing game. Make sure you add the link to your GitHub repo and a link to the deployed game in the [Google submission doc](https://docs.google.com/spreadsheets/d/1lmN_MfcIDgZsP5_2Tf9JJbpsW4vhxYmM00rImfgVSbk/edit#gid=331364090).
+
+## Tuesday, August 22
+1. Finish the Tic Tac Toe lab.
+2. Preview the [racing game](https://github.com/sf-wdi-40/project-0) if you're curious about what we'll be doing tomorrow in class.
+
+
 ## Monday, August 21
 1. Your portfolio should be as complete as possible. We will go over your code 1:1 on Wednesday so make sure that the most recent code has been pushed to your repo and that your link is working and included in the [submission doc](https://docs.google.com/spreadsheets/d/1lmN_MfcIDgZsP5_2Tf9JJbpsW4vhxYmM00rImfgVSbk/edit#gid=1389500000) by no later than tomorrow morning at start of class.
 2. The laundry Lab. Clone down [this](https://github.com/SF-WDI-LABS/laundry-lab) repo to your computer. The instructions are pretty simple, you're going to be writing functions to help "clean" some text. See if you can get through all of the bonuses.
