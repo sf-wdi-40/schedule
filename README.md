@@ -68,7 +68,7 @@
       <a href="https://github.com/sf-wdi-40/project-0">Racing game</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 1 -->
-      Giphy
+      <a href="https://github.com/arun-projects/Giphy-Search">Giphy</a>
       (AS)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 1 / Weekend Lab -->
@@ -89,7 +89,7 @@
       <a href="https://github.com/sf-wdi-40/project-0">Racing game</a>
     </td>
     <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      GeoQuakes
+      <a href="https://github.com/SF-WDI-LABS/geoquakes">GeoQuakes</a>
       (AS)
     </td>
     <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
@@ -211,7 +211,7 @@
       (Matt)
     </td>
     <td> <!-- Week 1 - Thursday Afternoon 2 -->
-      Gettysburg Address Project
+      <a href="https://github.com/arun-projects/Gettysburg-Address">Gettysburg Address Project</a>
       (AS)
     </td>
     <td> <!-- Week 1 - Friday Afternoon 2 / Weekend Lab -->
