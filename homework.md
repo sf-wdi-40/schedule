@@ -1,5 +1,5 @@
 ## Friday, August 25
-1. The [Spotify Lab](https://github.com/SF-WDI-LABS/spotify-search-lab)! Make a music search app using jQuery, AJAX, and the Spotify API. You'll be using Spotify's search endpoint to search for tracks (songs).
+1. Finish and submit the [Spotify Lab](https://github.com/SF-WDI-LABS/spotify-search-lab)! Make a music search app using jQuery, AJAX, and the Spotify API. You'll be using Spotify's search endpoint to search for tracks (songs). Note that we ask you to submit this lab with a pull request--you can find specific directions on how to do that [here](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md).
 2. If you finish the Spotify Lab try refactoring your racing game or read some more documentation on Nodejs.
 3. Add tests to your Spotify lab. Pick a function that you've written, and figure out how to test that its inputs/outputs work they way you intended.
 
