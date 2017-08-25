@@ -1,5 +1,7 @@
 ## Friday, August 25
 1. The [Spotify Lab](https://github.com/SF-WDI-LABS/spotify-search-lab)! Make a music search app using jQuery, AJAX, and the Spotify API. You'll be using Spotify's search endpoint to search for tracks (songs).
+2. If you finish the Spotify Lab try refactoring your racing game or read some more documentation on Nodejs.
+3. Add tests to your Spotify lab. Pick a function that you've written, and figure out how to test that its inputs/outputs work they way you intended.
 
 ## Thursday, August 24
 1. [GeoQuakes](https://github.com/SF-WDI-LABS/geoquakes)! It's awesome and fun!
