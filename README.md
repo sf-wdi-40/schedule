@@ -46,7 +46,7 @@
       <a href="https://github.com/sf-wdi-40/project-0">Racing game</a>
     </td>
     <td> <!-- Week 2 - Thursday Morning 2 -->
-      AJAX
+      <a href="https://github.com/SF-WDI-LABS/intro-ajax">AJAX</a>
       (AS)
     </td>
     <td> <!-- Week 2 - Friday Morning 2 -->
