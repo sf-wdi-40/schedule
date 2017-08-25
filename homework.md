@@ -1,3 +1,6 @@
+## Friday, August 25
+1. The [Spotify Lab](https://github.com/SF-WDI-LABS/spotify-search-lab)! Make a music search app using jQuery, AJAX, and the Spotify API. You'll be using Spotify's search endpoint to search for tracks (songs).
+
 ## Thursday, August 24
 1. [GeoQuakes](https://github.com/SF-WDI-LABS/geoquakes)! It's awesome and fun!
 
