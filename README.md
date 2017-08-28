@@ -1,6 +1,6 @@
 > Find important links [here](important-info.md)!
 
-## Week 3:
+## Week 3: Full Stack JavaScript
 <table>
   <tr>
     <td>August 28 - September 1</td>
@@ -120,7 +120,7 @@
   </tr>
 </table>
 
-## Week 2:
+## Week 2: Interactive Websites & The Internet
 <table>
   <tr>
     <td>August 21-25</td>
