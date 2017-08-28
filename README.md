@@ -21,7 +21,7 @@
       (AS)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 1 -->
-      Mongo DB
+      MongoDB vs. Mongoose & Numerical Relationships
       (MF)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
@@ -29,7 +29,7 @@
       (Andy)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
-      TBD
+      Tunely
       (MF)
     </td>
   </tr>
@@ -44,16 +44,16 @@
       (AS)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 2 -->
-      MongoDB Relationships
+      Relationships in Mongo(ose)
       (MF)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      TBD
+      Intro Tunely
       (MF)
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
-      Review
-      (team)
+      Tunely
+      (MF)
     </td>
   </tr>
   <tr>
@@ -71,11 +71,11 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      TBD
+      Tunely
       (MF)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
-      TBD
+      Tunely
       (MF)
     </td>
   </tr>
@@ -93,11 +93,11 @@
       Book App
       (MF)
     </td>
-    <td> <!-- Week 2 - Thursday Afternoon 2 -->
-      TBD (MF)
+    <td> <!-- Week 3 - Thursday Afternoon 2 -->
+      Tunely (MF)
     </td>
-    <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
-      TBD (MF)
+    <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
+      Tunely (MF)
     </td>
   </tr>
   <tr>
