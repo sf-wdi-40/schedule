@@ -1,5 +1,125 @@
 > Find important links [here](important-info.md)!
 
+## Week 3:
+<table>
+  <tr>
+    <td>August 28 - September 1</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 3 - Monday Morning 1 -->
+      <a href="https://github.com/sf-wdi-40/intro-express">Intro to Express</a>
+      (AS)
+    </td>
+    <td> <!-- Week 3 - Tuesday Morning 1 -->
+      Express MVC
+      (AS)
+    </td>
+    <td> <!-- Week 3 - Wednesday Morning 1 -->
+      Mongo DB
+      (MF)
+    </td>
+    <td> <!-- Week 3 - Thursday Morning 1 -->
+      Outcomes
+      (Andy)
+    </td>
+    <td> <!-- Week 3 - Friday Morning 1 -->
+      TBD
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 3 - Monday Morning 2 -->
+      Express CRUD
+      (AS)
+    </td>
+    <td> <!-- Week 3 - Tuesday Morning 2 -->
+      Introduction to MongoDB
+      (AS)
+    </td>
+    <td> <!-- Week 3 - Wednesday Morning 2 -->
+      MongoDB Relationships
+      (MF)
+    </td>
+    <td> <!-- Week 3 - Thursday Morning 2 -->
+      TBD
+      (MF)
+    </td>
+    <td> <!-- Week 3 - Friday Morning 2 -->
+      Review
+      (team)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 3 - Monday Afternoon 1 -->
+      <a href="https://github.com/arun-projects/Wine-Manager">Wine Manager Lab</a>
+      (AS)
+    </td>
+    <td> <!-- Week 3 - Tuesday Afternoon 1 -->
+      <a href="https://github.com/arun-projects/Wine-Manager">Wine Manager Lab Part 2</a>
+      (AS)
+    </td>
+    <td> <!-- Week 3 - Wednesday Afternoon 1 -->
+      Book App
+      (MF)
+    </td>
+    <td> <!-- Week 3 - Thursday Afternoon 1 -->
+      TBD
+      (MF)
+    </td>
+    <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
+      TBD
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 3 - Monday Afternoon 2 -->
+      Wine Manager Lab
+      (AS)
+    </td>
+    <td> <!-- Week 3 - Tuesday Afternoon 2 -->
+      Wine Manager Lab Part 2
+      (AS)
+    </td>
+    <td> <!-- Week 3 - Wednesday Afternoon 2 -->
+      Book App
+      (MF)
+    </td>
+    <td> <!-- Week 2 - Thursday Afternoon 2 -->
+      TBD (MF)
+    </td>
+    <td> <!-- Week 2 - Friday Afternoon 2 / Weekend Lab -->
+      TBD (MF)
+    </td>
+  </tr>
+  <tr>
+  <td><strong>HW</strong></td>
+  <td> <!-- Week 2 - Monday Homework -->
+    <a href="homework.md">See HW page</a>
+  </td>
+  <td> <!-- Week 2 - Tuesday Homework -->
+    <a href="homework.md">See HW page</a>
+  </td>
+  <td> <!-- Week 2 - Wednesday Homework -->
+    <a href="homework.md">See HW page</a>
+  </td>
+  <td> <!-- Week 2 - Thursday Homework -->
+    <a href="homework.md">See HW page</a>
+  </td>
+  <td> <!-- Week 2 - Friday -->
+    <a href="homework.md">See HW page</a>
+  </td>
+  </tr>
+</table>
+
 ## Week 2:
 <table>
   <tr>
