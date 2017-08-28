@@ -21,7 +21,7 @@
       (AS)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 1 -->
-      MongoDB vs. Mongoose & Numerical Relationships
+      <a href="https://github.com/SF-WDI-LABS/mongoose">Mongoose</a> & <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Numerical Relationships</a>
       (MF)
     </td>
     <td> <!-- Week 3 - Thursday Morning 1 -->
@@ -44,7 +44,7 @@
       (AS)
     </td>
     <td> <!-- Week 3 - Wednesday Morning 2 -->
-      Relationships in Mongo(ose)
+      <a href="https://github.com/SF-WDI-LABS/mongoose-associations">Relationships in Mongo(ose)</a>
       (MF)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
@@ -67,7 +67,7 @@
       (AS)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 1 -->
-      Book App
+      <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a>
       (MF)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
@@ -90,7 +90,7 @@
       (AS)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 2 -->
-      Book App
+      <a href="https://github.com/SF-WDI-LABS/mongoose-books-app">Book App</a>
       (MF)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 2 -->
