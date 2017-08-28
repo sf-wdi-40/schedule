@@ -1,3 +1,9 @@
+## Monday, August 28
+1. Create a full CRUD application using the "persons" API and provided frontend.
+2. Frontend can be found here: https://github.com/arun-projects/User-Manager
+3. For the API, you will be using the "Person API" on the MyAPI dashboard: http://myapi-profstream.herokuapp.com
+4. Don't worry about forking the frontend provided. Simply create a new repository.
+
 ## Friday, August 25
 1. Finish and submit the [Spotify Lab](https://github.com/SF-WDI-LABS/spotify-search-lab)! Make a music search app using jQuery, AJAX, and the Spotify API. You'll be using Spotify's search endpoint to search for tracks (songs). Note that we ask you to submit this lab with a pull request--you can find specific directions on how to do that [here](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md).
 2. If you finish the Spotify Lab try refactoring your racing game or read some more documentation on Nodejs.
