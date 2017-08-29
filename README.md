@@ -86,7 +86,7 @@
       (AS)
     </td>
     <td> <!-- Week 3 - Tuesday Afternoon 2 -->
-      Wine Manager Lab Part 2
+      <a href="https://github.com/arun-projects/Chirp-Network">Chirp! Network Lab</a>
       (AS)
     </td>
     <td> <!-- Week 3 - Wednesday Afternoon 2 -->
