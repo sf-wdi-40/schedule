@@ -2,6 +2,10 @@
 1. Create a CRUD application using MongoDB with Mongoose to produce a todo list.
 2. Frontend can be found here: https://github.com/arun-projects/Todo-List
 3. Don't worry about forking the frontend provided. Simply create a new repository.
+4. A couple of articles to checkout as well re: multi vs single-page web apps.<br>
+[Eikos article](http://www.eikospartners.com/blog/multi-page-web-applications-vs.-single-page-web-applications
+https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)<br>
+[Medium article](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
 
 ## Monday, August 28
 1. Create a full CRUD application using the "persons" API and provided frontend.
