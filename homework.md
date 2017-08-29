@@ -1,3 +1,8 @@
+## Tuesday, August 29
+1. Create a CRUD application using MongoDB with Mongoose to produce a todo list.
+2. Frontend can be found here: https://github.com/arun-projects/Todo-List
+3. Don't worry about forking the frontend provided. Simply create a new repository.
+
 ## Monday, August 28
 1. Create a full CRUD application using the "persons" API and provided frontend.
 2. Frontend can be found here: https://github.com/arun-projects/User-Manager
