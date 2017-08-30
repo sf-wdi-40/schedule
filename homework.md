@@ -1,3 +1,6 @@
+## Wednesday, August 30
+1. Finish sprints 2 and 3 of the Book App. When you get to the section of sprint 2 titled "Challenge!", that's a great time to move on to sprint 3. No need to turn in.
+
 ## Tuesday, August 29
 1. Create a CRUD application using MongoDB with Mongoose to produce a todo list.
 2. Frontend can be found here: https://github.com/arun-projects/Todo-List
