@@ -29,7 +29,7 @@
       (Andy)
     </td>
     <td> <!-- Week 3 - Friday Morning 1 -->
-      Tunely
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
       (MF)
     </td>
   </tr>
@@ -48,11 +48,11 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Thursday Morning 2 -->
-      Intro Tunely
+      Intro <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
       (MF)
     </td>
     <td> <!-- Week 3 - Friday Morning 2 -->
-      Tunely
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
       (MF)
     </td>
   </tr>
@@ -71,11 +71,11 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 1 -->
-      Tunely
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
       (MF)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 1 / Weekend Lab -->
-      Tunely
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a>
       (MF)
     </td>
   </tr>
@@ -94,10 +94,10 @@
       (MF)
     </td>
     <td> <!-- Week 3 - Thursday Afternoon 2 -->
-      Tunely (MF)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (MF)
     </td>
     <td> <!-- Week 3 - Friday Afternoon 2 / Weekend Lab -->
-      Tunely (MF)
+      <a href="https://github.com/SF-WDI-LABS/tunely">Tunely</a> (MF)
     </td>
   </tr>
   <tr>
