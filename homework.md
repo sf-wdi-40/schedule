@@ -1,3 +1,6 @@
+## Thursday, August 31
+1. Finish through **Sprint 3** of Tunely. We will start on sprint 4 tomorrow morning.
+
 ## Wednesday, August 30
 1. Finish sprints 2 and 3 of the Book App. When you get to the section of sprint 2 titled "Challenge!", that's a great time to move on to sprint 3. No need to turn in.
 
