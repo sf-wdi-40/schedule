@@ -3,6 +3,7 @@
 ## Useful links
 * [Installfest](https://github.com/SF-WDI-LABS/installfest)
 * [How to turn in homework](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/submit-homework.md)
+* [How to deploy a Node app to Heroku](https://github.com/SF-WDI-LABS/shared_modules/blob/master/how-to/heroku-mean-stack-deploy.md)
 
 
 ## Course Information
