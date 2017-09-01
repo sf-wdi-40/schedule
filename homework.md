@@ -1,3 +1,6 @@
+## Friday, September 1
+1. Complete the [personal API](https://github.com/SF-WDI-LABS/express-personal-api).
+
 ## Thursday, August 31
 1. Finish through **Sprint 3** of Tunely. We will start on sprint 4 tomorrow morning.
 
