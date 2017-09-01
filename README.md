@@ -1,5 +1,112 @@
 > Find important links [here](important-info.md)!
 
+## Week 4: Project 1
+<table>
+  <tr>
+    <td>Sep 4-8</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 4 - Monday Morning 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 4 - Tuesday Morning 1 -->
+      Personal API Code Review
+      (MF)
+    </td>
+    <td> <!-- Week 4 - Wednesday Morning 1 -->
+      P1 Approvals
+    </td>
+    <td> <!-- Week 4 - Thursday Morning 1 -->
+      Intro to Algorithms
+      (MF)
+    </td>
+    <td> <!-- Week 4 - Friday Morning 1 -->
+      Algorithms
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 4 - Monday Morning 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 4 - Tuesday Morning 2 -->
+      GitHub for Collaboration, Wireframes, User Stories, Etc.
+      (MF)
+    </td>
+    <td> <!-- Week 4 - Wednesday Morning 2 -->
+      P1 Approvals
+    </td>
+    <td> <!-- Week 4 - Thursday Morning 2 -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Friday Morning 2 -->
+      P1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 4 - Monday Afternoon 1 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 4 - Tuesday Afternoon 1 -->
+      Intro to Project 1
+      (MF)
+    </td>
+    <td> <!-- Week 4 - Wednesday Afternoon 1 -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Thursday Afternoon 1 -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Friday Afternoon 1 / Weekend Lab -->
+      P1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 4 - Monday Afternoon 2 -->
+      HOLIDAY
+    </td>
+    <td> <!-- Week 4 - Tuesday Afternoon 2 -->
+      Project 1 Planning
+    </td>
+    <td> <!-- Week 4 - Wednesday Afternoon 2 -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Thursday Afternoon 2 -->
+      P1
+    </td>
+    <td> <!-- Week 4 - Friday Afternoon 2 / Weekend Lab -->
+      P1
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
 ## Week 3: Full Stack JavaScript
 <table>
   <tr>
