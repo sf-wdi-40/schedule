@@ -56,7 +56,7 @@
       HOLIDAY
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 1 -->
-      Intro to Project 1
+      <a href="https://github.com/sf-wdi-40/project-01">Intro to Project 1</a>
       (MF)
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon 1 -->
