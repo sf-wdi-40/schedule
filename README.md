@@ -16,7 +16,7 @@
       HOLIDAY
     </td>
     <td> <!-- Week 4 - Tuesday Morning 1 -->
-      Personal API Code Review
+      <a href="https://github.com/SF-WDI-LABS/code-review">Personal API Code Review</a>
       (MF)
     </td>
     <td> <!-- Week 4 - Wednesday Morning 1 -->
@@ -37,7 +37,7 @@
       HOLIDAY
     </td>
     <td> <!-- Week 4 - Tuesday Morning 2 -->
-      GitHub for Collaboration, Wireframes, User Stories, Etc.
+      <a href="https://docs.google.com/document/d/1zg8GUjvwt1kx5KNp3Tk_h5WL04MnWyMvUt8jGRZuBLA/edit">GitHub for Collaboration</a>, Wireframes, User Stories, Etc.
       (MF)
     </td>
     <td> <!-- Week 4 - Wednesday Morning 2 -->
