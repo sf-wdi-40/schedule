@@ -37,7 +37,7 @@
       HOLIDAY
     </td>
     <td> <!-- Week 4 - Tuesday Morning 2 -->
-      <a href="https://docs.google.com/document/d/1zg8GUjvwt1kx5KNp3Tk_h5WL04MnWyMvUt8jGRZuBLA/edit">GitHub for Collaboration</a>, Wireframes, User Stories, Etc.
+      <a href="https://github.com/sf-wdi-40/project-01">Intro to Project 1</a> and <a href="https://docs.google.com/document/d/1zg8GUjvwt1kx5KNp3Tk_h5WL04MnWyMvUt8jGRZuBLA/edit">GitHub for Collaboration</a>, Wireframes, User Stories, Etc.
       (MF)
     </td>
     <td> <!-- Week 4 - Wednesday Morning 2 -->
@@ -56,7 +56,7 @@
       HOLIDAY
     </td>
     <td> <!-- Week 4 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/sf-wdi-40/project-01">Intro to Project 1</a>
+      <a href="https://github.com/sf-wdi-40/project-01">Project 1 Planning</a>
       (MF)
     </td>
     <td> <!-- Week 4 - Wednesday Afternoon 1 -->
