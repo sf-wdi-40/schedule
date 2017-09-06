@@ -1,3 +1,6 @@
+## Tuesday-Friday, September 5-8
+Project 1 forever
+
 ## Friday, September 1
 1. Complete the [personal API](https://github.com/SF-WDI-LABS/express-personal-api).
 
