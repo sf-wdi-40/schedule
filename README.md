@@ -23,8 +23,8 @@
       P1 Approvals
     </td>
     <td> <!-- Week 4 - Thursday Morning 1 -->
-      Intro to Algorithms
-      (MF)
+      Outcomes
+      (Andy)
     </td>
     <td> <!-- Week 4 - Friday Morning 1 -->
       Algorithms
