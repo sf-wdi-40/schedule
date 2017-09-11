@@ -1,6 +1,6 @@
 > Find important links [here](important-info.md)!
 
-## Week 5:
+## Week 5: Adventures in Ruby & Rails
 <table>
   <tr>
     <td>Sep 11-15</td>
@@ -60,7 +60,7 @@
       P1 & Presentations
     </td>
     <td> <!-- Week 5 - Tuesday Afternoon 1 -->
-      Ruby Methods
+      <a href="https://github.com/SF-WDI-LABS/ruby-methods">Ruby Methods</a>
       (MF)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 1 -->
@@ -82,7 +82,7 @@
       P1 Presentations & Recap
     </td>
     <td> <!-- Week 5 - Tuesday Afternoon 2 -->
-      Username Generator
+      <a href="https://github.com/SF-WDI-LABS/username-generator">Username Generator</a>
       (MF)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 2 -->
