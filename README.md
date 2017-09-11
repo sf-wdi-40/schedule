@@ -1,5 +1,123 @@
 > Find important links [here](important-info.md)!
 
+## Week 5:
+<table>
+  <tr>
+    <td>Sep 11-15</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday (no Michelle)</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 5 - Monday Morning 1 -->
+      P1
+    </td>
+    <td> <!-- Week 5 - Tuesday Morning 1 -->
+      Intro Ruby
+      (EW)
+    </td>
+    <td> <!-- Week 5 - Wednesday Morning 1 -->
+      Object Oriented Programming
+      (MF)
+    </td>
+    <td> <!-- Week 5 - Thursday Morning 1 -->
+      Intro Rails
+      (MF)
+    </td>
+    <td> <!-- Week 5 - Friday Morning 1 -->
+      Review & Debugging Strategies
+      (EW & MS)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 5 - Monday Morning 2 -->
+      P1
+    </td>
+    <td> <!-- Week 5 - Tuesday Morning 2 -->
+      Intro Ruby
+      (EW)
+    </td>
+    <td> <!-- Week 5 - Wednesday Morning 2 -->
+      OOP Monster Lab
+      (MF)
+    </td>
+    <td> <!-- Week 5 - Thursday Morning 2 -->
+      Rails
+      (MF)
+    </td>
+    <td> <!-- Week 5 - Friday Morning 2 -->
+      Migrations
+      (EW)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 5 - Monday Afternoon 1 -->
+      P1 & Presentations
+    </td>
+    <td> <!-- Week 5 - Tuesday Afternoon 1 -->
+      Ruby Methods
+      (MF)
+    </td>
+    <td> <!-- Week 5 - Wednesday Afternoon 1 -->
+      Intro RSpec & Go Fish
+      (EW)
+    </td>
+    <td> <!-- Week 5 - Thursday Afternoon 1 -->
+      ActiveRecord
+      (MF)
+    </td>
+    <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
+      Views & Partials
+      (EW)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 5 - Monday Afternoon 2 -->
+      P1 Presentations & Recap
+    </td>
+    <td> <!-- Week 5 - Tuesday Afternoon 2 -->
+      Username Generator
+      (MF)
+    </td>
+    <td> <!-- Week 5 - Wednesday Afternoon 2 -->
+      Go Fish
+      (EW)
+    </td>
+    <td> <!-- Week 5 - Thursday Afternoon 2 -->
+      Rock 'n Rails (aka definitely not Tunely)
+      (MF)
+    </td>
+    <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
+      The Bog App
+      (MS)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
 ## Week 4: Project 1
 <table>
   <tr>
