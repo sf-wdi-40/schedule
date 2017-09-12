@@ -16,7 +16,7 @@
       P1
     </td>
     <td> <!-- Week 5 - Tuesday Morning 1 -->
-      Intro Ruby
+      <a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a>
       (EW)
     </td>
     <td> <!-- Week 5 - Wednesday Morning 1 -->
@@ -38,7 +38,7 @@
       P1
     </td>
     <td> <!-- Week 5 - Tuesday Morning 2 -->
-      Intro Ruby
+      <a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a>
       (EW)
     </td>
     <td> <!-- Week 5 - Wednesday Morning 2 -->
