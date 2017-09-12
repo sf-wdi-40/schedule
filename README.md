@@ -72,7 +72,7 @@
       (MF)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
-      Views & Partials
+      <a href="https://github.com/SF-WDI-LABS/rails-views-and-helpers">Views & Partials</a>
       (EW)
     </td>
   </tr>
