@@ -64,7 +64,7 @@
       (MF)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 1 -->
-      Intro RSpec & Go Fish
+      <a href="https://docs.google.com/presentation/d/1aPXnhK2dstPEjTEQFUUQ7PcRQJgrs8uaQsesUbOxnfE/edit?usp=sharing">Intro RSpec</a> & <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish</a>
       (EW)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 1 -->
