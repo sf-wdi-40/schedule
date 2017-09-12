@@ -64,7 +64,7 @@
       (MF)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/rspec">Intro RSpec</a> & <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish</a>
+      <a href="https://github.com/SF-WDI-LABS/rspec">Intro RSpec</a>
       (EW)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 1 -->
@@ -86,7 +86,7 @@
       (MF)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/rspec">Intro RSpec</a> & <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish</a>
+      <a href="https://github.com/SF-WDI-LABS/go-fish-card-game">Go Fish</a>
       (EW)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 2 -->
