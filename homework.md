@@ -1,3 +1,7 @@
+## Tuesday, September 12
+1. Complete the [username-generator](https://github.com/SF-WDI-LABS/username-generator). Make sure you've forked and cloned this repo. You'll be submitting a pull-request when you've finished.
+2. Get some practice with ruby methods with [this](https://github.com/SF-WDI-LABS/ruby-method-drills) lab. This is a fun one!
+
 ## Monday, September 11
 1. Complete a Ruby health check to make sure you're ready for tomorrow! Below, I've listed the commands I ran, and their output on my computer. Please run these on your computer and make sure they're similar (don't have to be identical). If anything doesn't work, try to fix it and reach out if you need help, because we'll start using these tools tomorrow!
 2. Read through the feedback & comments on your Project 1 code. We'll go over a couple of common themes tomorrow morning.
