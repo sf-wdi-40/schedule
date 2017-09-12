@@ -16,8 +16,8 @@
       P1
     </td>
     <td> <!-- Week 5 - Tuesday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/intro-ruby">Intro to Ruby</a>
-      (EW)
+      Live Refactoring of Project 1
+      (EW & MF)
     </td>
     <td> <!-- Week 5 - Wednesday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/ruby-oop">Object Oriented Programming</a>
