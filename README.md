@@ -20,7 +20,7 @@
       (EW & MF)
     </td>
     <td> <!-- Week 5 - Wednesday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/ruby-oop">Object Oriented Programming</a>
+      <a href="https://github.com/SF-WDI-LABS/ruby-methods-swarm">Method Swarm</a> and <a href="https://github.com/SF-WDI-LABS/ruby-oop">Object Oriented Programming</a>
       (MF)
     </td>
     <td> <!-- Week 5 - Thursday Morning 1 -->
@@ -82,7 +82,7 @@
       P1 Presentations & Recap
     </td>
     <td> <!-- Week 5 - Tuesday Afternoon 2 -->
-       <a href="https://github.com/SF-WDI-LABS/ruby-methods-swarm">Method Swarm</a> and <a href="https://github.com/SF-WDI-LABS/username-generator">Username Generator</a>
+      <a href="https://github.com/SF-WDI-LABS/username-generator">Username Generator</a>
       (MF)
     </td>
     <td> <!-- Week 5 - Wednesday Afternoon 2 -->
