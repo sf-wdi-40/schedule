@@ -50,7 +50,7 @@
       (MF)
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
-      Migrations
+      <a href="https://github.com/SF-WDI-LABS/migrations">Migrations</a>
       (EW)
     </td>
   </tr>
