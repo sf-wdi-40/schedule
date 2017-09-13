@@ -94,7 +94,7 @@
       (MF)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
-      The Bog App
+      <a href="https://github.com/SF-WDI-LABS/rails_bog_app">The Bog App</a>
       (MS)
     </td>
   </tr>
