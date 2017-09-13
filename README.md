@@ -24,7 +24,7 @@
       (MF)
     </td>
     <td> <!-- Week 5 - Thursday Morning 1 -->
-      Intro Rails
+      <a href="https://github.com/SF-WDI-LABS/idiomatic-ruby">Ruby Practice</a>
       (MF)
     </td>
     <td> <!-- Week 5 - Friday Morning 1 -->
@@ -46,7 +46,7 @@
       (MF)
     </td>
     <td> <!-- Week 5 - Thursday Morning 2 -->
-      Rails
+      <a href="https://github.com/SF-WDI-LABS/active-record">ActiveRecord</a>
       (MF)
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
@@ -68,7 +68,7 @@
       (EW)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 1 -->
-      ActiveRecord
+      <a href="https://github.com/SF-WDI-LABS/rails-intro">Intro Rails</a>
       (MF)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 1 / Weekend Lab -->
@@ -90,7 +90,7 @@
       (EW)
     </td>
     <td> <!-- Week 5 - Thursday Afternoon 2 -->
-      Rock 'n Rails (aka definitely not Tunely)
+      <a href="https://github.com/SF-WDI-LABS/rock-n-rails">Rock 'n Rails</a> (aka definitely not Tunely)
       (MF)
     </td>
     <td> <!-- Week 5 - Friday Afternoon 2 / Weekend Lab -->
