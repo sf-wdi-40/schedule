@@ -42,7 +42,7 @@
       (EW)
     </td>
     <td> <!-- Week 5 - Wednesday Morning 2 -->
-      OOP Monster Lab
+      <a href="https://github.com/SF-WDI-LABS/ruby-monster-oop">OOP Monster Lab</a>
       (MF)
     </td>
     <td> <!-- Week 5 - Thursday Morning 2 -->
