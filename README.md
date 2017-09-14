@@ -46,7 +46,7 @@
       (MF)
     </td>
     <td> <!-- Week 5 - Thursday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/active-record">ActiveRecord</a>
+      <a href="https://github.com/SF-WDI-LABS/intro-sql">SQL</a> and <a href="https://github.com/SF-WDI-LABS/active-record">ActiveRecord</a>
       (MF)
     </td>
     <td> <!-- Week 5 - Friday Morning 2 -->
