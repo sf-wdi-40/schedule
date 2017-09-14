@@ -1,5 +1,5 @@
 ## Wednesday, September 13
-1. Complete the [Go-fish Lab](https://github.com/SF-WDI-LABS/username-generator).
+1. Complete the [Go-fish Lab](https://github.com/SF-WDI-LABS/go-fish-card-game).
 2. For more TDD practice make a [Wheel of Fortune](https://github.com/SF-WDI-LABS/wheel_of_fortune) game.
 3. Get some practice with ruby methods with [this](https://github.com/SF-WDI-LABS/ruby-method-drills) lab. This is a fun one!
 
