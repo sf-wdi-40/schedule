@@ -1,3 +1,10 @@
+## Friday, September 15
+1. This lab is designed to get you familiar with the steps to take when creating a Rails app. In the [Bog App](https://github.com/SF-WDI-LABS/rails_bog_app) lab you will create (at least four times) a new app starting from scratch each time.
+
+## Thursday, September 14
+1. Complete the [rock-n-rails](https://github.com/SF-WDI-LABS/rock-n-rails) lab.
+2. Get some practice with ruby methods with [this](https://github.com/SF-WDI-LABS/ruby-method-drills) lab. This is a fun one!
+
 ## Wednesday, September 13
 1. Complete the [Go-fish Lab](https://github.com/SF-WDI-LABS/go-fish-card-game).
 2. For more TDD practice make a [Wheel of Fortune](https://github.com/SF-WDI-LABS/wheel_of_fortune) game.
