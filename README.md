@@ -24,8 +24,8 @@
       (tbd)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
-      Drill
-      (tbd)
+      Outcomes
+      (Andy)
     </td>
     <td> <!-- Week 6 - Friday Morning 1 -->
       Review
