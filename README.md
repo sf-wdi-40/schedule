@@ -16,8 +16,7 @@
       Algorithms: Binary Search revisited & runtime
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
-      Drill
-      (tbd)
+      <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a>
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
       Drill
@@ -39,8 +38,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
-      Topic
-      (tbd)
+      <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a>
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
       Topic
@@ -62,8 +60,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 1 -->
-      Topic
-      (tbd)
+      <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a>
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
       Topic
@@ -85,8 +82,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
-      Topic
-      (tbd)
+      <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App (Rails Auth App)</a>
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
       Topic
