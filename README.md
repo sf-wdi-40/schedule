@@ -13,66 +13,63 @@
   <tr>
     <td><strong>9:00-10:20</strong></td>
     <td> <!-- Week 6 - Monday Morning 1 -->
-      Algorithms: Binary Search revisited & runtime
+      Bog Recap & <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a>
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
       <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
-      Drill
-      (tbd)
+      Finish/recap library app
+      (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
       Outcomes
       (Andy)
     </td>
     <td> <!-- Week 6 - Friday Morning 1 -->
-      Review
-      (team)
+      Algorithms: LinkedLists
+      (MF)
     </td>
   </tr>
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 6 - Monday Morning 2 -->
-      Bog Recap & <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a>
+      <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a> and lab
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
       <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
-      Topic
-      (tbd)
+      <a href="https://github.com/SF-WDI-LABS/rails-path-and-view-helpers">Helpers</a>
+      (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
-      Topic
-      (tbd)
+      Intro to Project 2: Codename Vagabond
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
-      Review
-      (team)
+      Project 2: Codename Vagabond
+      (with optional review session)
     </td>
   </tr>
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 6 - Monday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a> and lab
+      <a href="https://github.com/SF-WDI-LABS/rails-validations-errors">Validations</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 1 -->
       <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
-      Topic
-      (tbd)
+      Library App part 2
+      (team)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
-      Topic
-      (tbd)
+      Project 2: Codename Vagabond
     </td>
     <td> <!-- Week 6 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Project 2: Codename Vagabond
     </td>
   </tr>
   <tr>
@@ -82,19 +79,17 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App (Rails Auth App)</a> (ESW)
+      <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App (Rails Auth App) part 1</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
-      Topic
-      (tbd)
+      Library App part 2
+      (team)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
-      Topic
-      (tbd)
+      Project 2: Codename Vagabond
     </td>
     <td> <!-- Week 6 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      Project 2: Codename Vagabond
     </td>
   </tr>
   <tr>
