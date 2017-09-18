@@ -16,7 +16,7 @@
       Bog Recap & <a href="https://github.com/SF-WDI-LABS/rails-associations">Associations</a>
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a> and <a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster Lab</a>(ESW)
+      <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a> and <a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster Lab</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
       Finish/recap library app
