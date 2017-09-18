@@ -16,7 +16,7 @@
       Algorithms: Binary Search revisited & runtime
     </td>
     <td> <!-- Week 6 - Tuesday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a>
+      <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
       Drill
@@ -38,7 +38,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a>
+      <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
       Topic
@@ -60,7 +60,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 1 -->
-      <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a>
+      <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
       Topic
@@ -82,7 +82,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Tuesday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App (Rails Auth App)</a>
+      <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App (Rails Auth App)</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
       Topic
