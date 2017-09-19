@@ -62,7 +62,7 @@
       <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
-      Intro to Project 2: Codename Vagabond
+      Intro to <a href="https://github.com/sf-wdi-40/project-vagabond">Project 2: Codename Vagabond</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
