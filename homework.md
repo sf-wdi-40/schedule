@@ -1,3 +1,9 @@
+## Tuesday, September 19
+1. Continue working on/finish the Library App from this afternoon. **Do both parts 1 and 2**.
+
+## Monday, September 18
+1. Finish the Pet lab from this afternoon.
+
 ## Friday, September 15
 1. This lab is designed to get you familiar with the steps to take when creating a Rails app. In the [Bog App](https://github.com/SF-WDI-LABS/rails_bog_app) lab you will create (at least four times) a new app starting from scratch each time.
 

@@ -19,7 +19,7 @@
       <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a> and <a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster Lab</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
-      Finish/recap library app part 1, with Security Basics
+      Finish/recap library app, with Security Basics
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
@@ -45,7 +45,7 @@
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
-      Intro to Project 2: Codename Vagabond
+      Project 2: Codename Vagabond
     </td>
     <td> <!-- Week 6 - Friday Morning 2 -->
       Project 2: Codename Vagabond
@@ -62,8 +62,8 @@
       <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 1 -->
-      Library App part 2
-      (team)
+      Intro to Project 2: Codename Vagabond
+      (MF)
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 1 -->
       Project 2: Codename Vagabond
@@ -82,8 +82,7 @@
       <a href="https://github.com/SF-WDI-LABS/public-library-app">Library App (Rails Auth App) part 1</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Afternoon 2 -->
-      Library App part 2
-      (team)
+      Project 2: Codename Vagabond
     </td>
     <td> <!-- Week 6 - Thursday Afternoon 2 -->
       Project 2: Codename Vagabond
