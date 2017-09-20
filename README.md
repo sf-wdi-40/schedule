@@ -19,7 +19,7 @@
       <a href="https://github.com/SF-WDI-LABS/cookies-sessions">Cookies and Sessions</a> and <a href="https://github.com/sf-wdi-labs/cookie-monster-app">Cookie Monster Lab</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 1 -->
-      Finish/recap library app, with Security Basics
+      <a href="https://github.com/SF-WDI-LABS/rails-path-and-view-helpers">Helpers</a>
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 1 -->
@@ -41,7 +41,7 @@
       <a href="https://github.com/SF-WDI-LABS/rails-auth">Auth in Rails</a> (ESW)
     </td>
     <td> <!-- Week 6 - Wednesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/rails-path-and-view-helpers">Helpers</a>
+      Recap library app, with Security Basics
       (MF)
     </td>
     <td> <!-- Week 6 - Thursday Morning 2 -->
