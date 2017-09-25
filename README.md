@@ -38,7 +38,7 @@
       Project 2: Codename Vagabond
     </td>
     <td> <!-- Week 7 - Tuesday Morning 2 -->
-      Turbolinks & Asset Pipeline
+      <a href="https://github.com/SF-WDI-LABS/rails-asset-pipeline">Asset Pipeline & Turbolinks</a> with <a href="https://github.com/SF-WDI-LABS/turbolinks_challenge">Turbolinks challenge</a>
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Morning 2 -->
