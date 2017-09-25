@@ -58,7 +58,7 @@
       Project 2: Codename Vagabond
     </td>
     <td> <!-- Week 7 - Tuesday Afternoon 1 -->
-      Intro Lightning Talks
+      Intro <a href="https://github.com/SF-WDI-LABS/lightning-talks">Lightning Talks</a>
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon 1 -->
