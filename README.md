@@ -1,5 +1,115 @@
 > Find important links [here](important-info.md)!
 
+
+## Week 7: Rails Forever
+<table>
+  <tr>
+    <td>Sep 25-29</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 7 - Monday Morning 1 -->
+      Project 2: Codename Vagabond
+    </td>
+    <td> <!-- Week 7 - Tuesday Morning 1 -->
+      Coding Etiquette
+      (ESW)
+    </td>
+    <td> <!-- Week 7 - Wednesday Morning 1 -->
+      Present Lightning Talks
+    </td>
+    <td> <!-- Week 7 - Thursday Morning 1 -->
+    Outcomes
+    (Andy)
+    </td>
+    <td> <!-- Week 7 - Friday Morning 1 -->
+    Algorithms
+    (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 7 - Monday Morning 2 -->
+      Project 2: Codename Vagabond
+    </td>
+    <td> <!-- Week 7 - Tuesday Morning 2 -->
+      Turbolinks & Asset Pipeline
+      (MF)
+    </td>
+    <td> <!-- Week 7 - Wednesday Morning 2 -->
+      Project 3 Pitches & Field Trip
+    </td>
+    <td> <!-- Week 7 - Thursday Morning 2 -->
+      Algorithms
+      (MF)
+    </td>
+    <td> <!-- Week 7 - Friday Morning 2 -->
+      Project 3
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 7 - Monday Afternoon 1 -->
+      Project 2: Codename Vagabond
+    </td>
+    <td> <!-- Week 7 - Tuesday Afternoon 1 -->
+      Intro Lightning Talks
+      (MF)
+    </td>
+    <td> <!-- Week 7 - Wednesday Afternoon 1 -->
+      Project 3
+    </td>
+    <td> <!-- Week 7 - Thursday Afternoon 1 -->
+      Project 3
+    </td>
+    <td> <!-- Week 7 - Friday Afternoon 1 / Weekend Lab -->
+      Project 3
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 7 - Monday Afternoon 2 -->
+      Presentations & reflection
+    </td>
+    <td> <!-- Week 7 - Tuesday Afternoon 2 -->
+      Prep lightning talks
+    </td>
+    <td> <!-- Week 7 - Wednesday Afternoon 2 -->
+      Project 3
+    </td>
+    <td> <!-- Week 7 - Thursday Afternoon 2 -->
+      Project 3
+    </td>
+    <td> <!-- Week 7 - Friday Afternoon 2 / Weekend Lab -->
+      Project 3
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
+
 ## Week 6: Rails
 <table>
   <tr>

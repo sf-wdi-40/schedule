@@ -1,3 +1,15 @@
+## Monday, September 25
+1. Finish the Project 2: Codename Vagabond reflection survey.
+2. Do a code review of your Vagabond project. Go through the code and take time for the code-cleanup steps you couldn't during the project:
+    * Refactor repeated code into methods.
+    * Rename variables and methods to be more semantic.
+    * Clean up your CSS files to be concise while still including the necessary rules.
+    * Rename routes to be more semantic, or more RESTful.
+2. Start thinking about ideas for Project 3. We'll have super quick (20 seconds or so) pitches for those ideas on Wednesday morning.
+
+## Wednesday, September 20-Friday, September 22
+Vagabond
+
 ## Tuesday, September 19
 1. Continue working on/finish the Library App from this afternoon. **Do both parts 1 and 2**.
 
