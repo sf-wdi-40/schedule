@@ -17,7 +17,7 @@
       Project 2: Codename Vagabond
     </td>
     <td> <!-- Week 7 - Tuesday Morning 1 -->
-      Coding Etiquette
+      <a href="http://bit.ly/2wUff22">Coding Etiquette</a>
       (ESW)
     </td>
     <td> <!-- Week 7 - Wednesday Morning 1 -->
