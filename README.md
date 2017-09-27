@@ -49,7 +49,7 @@
       (MF)
     </td>
     <td> <!-- Week 7 - Friday Morning 2 -->
-      Project 3
+        <a href="https://github.com/sf-wdi-39/project-03">Project 3</a>
     </td>
   </tr>
   <tr>
@@ -62,13 +62,13 @@
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon 1 -->
-      Project 3
+        <a href="https://github.com/sf-wdi-39/project-03">Project 3</a>
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 1 -->
-      Project 3
+       <a href="https://github.com/sf-wdi-39/project-03">Project 3</a>
     </td>
     <td> <!-- Week 7 - Friday Afternoon 1 / Weekend Lab -->
-      Project 3
+        <a href="https://github.com/sf-wdi-39/project-03">Project 3</a>
     </td>
   </tr>
   <tr>
@@ -80,13 +80,13 @@
       Prep lightning talks
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon 2 -->
-      Project 3
+        <a href="https://github.com/sf-wdi-39/project-03">Project 3</a>
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 2 -->
-      Project 3
+        <a href="https://github.com/sf-wdi-39/project-03">Project 3</a>
     </td>
     <td> <!-- Week 7 - Friday Afternoon 2 / Weekend Lab -->
-      Project 3
+        <a href="https://github.com/sf-wdi-39/project-03">Project 3</a>
     </td>
   </tr>
   <tr>
