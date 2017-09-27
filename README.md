@@ -62,7 +62,7 @@
       (MF)
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon 1 -->
-      Project 3
+        <a href="https://github.com/sf-wdi-39/project-03">Project 3</a>
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 1 -->
       Project 3
@@ -80,7 +80,7 @@
       Prep lightning talks
     </td>
     <td> <!-- Week 7 - Wednesday Afternoon 2 -->
-      Project 3
+        <a href="https://github.com/sf-wdi-39/project-03">Project 3</a>
     </td>
     <td> <!-- Week 7 - Thursday Afternoon 2 -->
       Project 3
