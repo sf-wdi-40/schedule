@@ -45,8 +45,8 @@
       Project 3 Pitches & Field Trip
     </td>
     <td> <!-- Week 7 - Thursday Morning 2 -->
-      Algorithms
-      (MF)
+      Binary Search Recursive & Runtime
+      (ESW)
     </td>
     <td> <!-- Week 7 - Friday Morning 2 -->
         <a href="https://github.com/sf-wdi-40/project-03">Project 3</a>
