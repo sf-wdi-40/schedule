@@ -1,5 +1,111 @@
 > Find important links [here](important-info.md)!
 
+## Week 8: Finishing Rails Strong
+<table>
+  <tr>
+    <td>Oct 2-6</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 8 - Monday Morning 1 -->
+      Algorithms: Sorting part 2
+      (MF)
+    </td>
+    <td> <!-- Week 8 - Tuesday Morning 1 -->
+      Algorithms: Intro to Interviews
+      (MF)
+    </td>
+    <td> <!-- Week 8 - Wednesday Morning 1 -->
+      Algorithms: Mock interview
+      (ESW/MF)
+    </td>
+    <td> <!-- Week 8 - Thursday Morning 1 -->
+      Outcomes?
+      (Andy)
+    </td>
+    <td> <!-- Week 8 - Friday Morning 1 -->
+      Algorithms: Trees
+      (ESW)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 8 - Monday Morning 2 -->
+      P3
+    </td>
+    <td> <!-- Week 8 - Tuesday Morning 2 -->
+      P3
+    </td>
+    <td> <!-- Week 8 - Wednesday Morning 2 -->
+      P3
+    </td>
+    <td> <!-- Week 8 - Thursday Morning 2 -->
+      P3 Presentations
+    </td>
+    <td> <!-- Week 8 - Friday Morning 2 -->
+      Publify
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 8 - Monday Afternoon 1 -->
+      P3 & UXDI
+    </td>
+    <td> <!-- Week 8 - Tuesday Afternoon 1 -->
+      P3
+    </td>
+    <td> <!-- Week 8 - Wednesday Afternoon 1 -->
+      P3
+    </td>
+    <td> <!-- Week 8 - Thursday Afternoon 1 -->
+      Code Review
+    </td>
+    <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
+      Publify
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 8 - Monday Afternoon 2 -->
+      P3
+    </td>
+    <td> <!-- Week 8 - Tuesday Afternoon 2 -->
+      P3
+    </td>
+    <td> <!-- Week 8 - Wednesday Afternoon 2 -->
+      P3
+    </td>
+    <td> <!-- Week 8 - Thursday Afternoon 2 -->
+      Code Review
+    </td>
+    <td> <!-- Week 8 - Friday Afternoon 2 / Weekend Lab -->
+      Publify
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
 
 ## Week 7: Rails Forever
 <table>
