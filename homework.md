@@ -1,3 +1,6 @@
+## Now through Wednesday, October 4
+P3
+
 ## Monday, September 25
 1. Finish the Project 2: Codename Vagabond reflection survey.
 2. Do a code review of your Vagabond project. Go through the code and take time for the code-cleanup steps you couldn't during the project:
