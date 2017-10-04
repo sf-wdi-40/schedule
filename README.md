@@ -29,7 +29,7 @@
       (Andy)
     </td>
     <td> <!-- Week 8 - Friday Morning 1 -->
-      Algorithms: Trees
+      Interviews Practice
       (ESW)
     </td>
   </tr>
@@ -48,7 +48,7 @@
       P3 Presentations
     </td>
     <td> <!-- Week 8 - Friday Morning 2 -->
-      Publify
+      <a href="https://github.com/sf-wdi-40/publify-debugging-lab">Publify</a>
     </td>
   </tr>
   <tr>
@@ -63,10 +63,10 @@
       P3
     </td>
     <td> <!-- Week 8 - Thursday Afternoon 1 -->
-      Code Review
+      Code Review & <a href="https://github.com/SF-WDI-LABS/con-pletionist">Rails API Lab</a>
     </td>
     <td> <!-- Week 8 - Friday Afternoon 1 / Weekend Lab -->
-      Publify
+      <a href="https://github.com/sf-wdi-40/publify-debugging-lab">Publify</a>
     </td>
   </tr>
   <tr>
@@ -81,10 +81,10 @@
       P3
     </td>
     <td> <!-- Week 8 - Thursday Afternoon 2 -->
-      Code Review
+      Code Review & <a href="https://github.com/SF-WDI-LABS/con-pletionist">Rails API Lab</a>
     </td>
     <td> <!-- Week 8 - Friday Afternoon 2 / Weekend Lab -->
-      Publify
+      <a href="https://github.com/sf-wdi-40/publify-debugging-lab">Publify</a>
     </td>
   </tr>
   <tr>
