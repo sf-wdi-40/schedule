@@ -7,7 +7,7 @@
    * What is an example of an algorithm that takes O(N) time? O(N^2) time? O(logN) time?
    * What is Ruby on Rails, and how is it different from ActiveRecord?
    * What is a JavaScript closure?
-   * Given an array of integers, write a function that will move all the zeroes to the front of the array.
+   * BONUS: Given an array of integers, write a function that will move all the zeroes to the front of the array.
 3. Go over your project and make a roadmap for how to polish for portfolio (polishing > adding features).
 
 ## Now through Wednesday, October 4
