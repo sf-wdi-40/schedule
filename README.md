@@ -20,7 +20,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-2">Angular w/ API</a> (MF)
     </td>
     <td> <!-- Week 9 - Wednesday Morning 1 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/service-workers.md">Service Workers</a>
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/service-workers.md">Service Workers</a> (ESW)
     </td>
     <td> <!-- Week 9 - Thursday Morning 1 -->
       Outcomes
@@ -39,10 +39,10 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-2">Angular w/ API</a> (MF)
     </td>
     <td> <!-- Week 9 - Wednesday Morning 2 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/angular-universal.md">Angular Universal</a>
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/angular-universal.md">Angular Universal</a> (ESW)
     </td>
     <td> <!-- Week 9 - Thursday Morning 2 -->
-      Review Vending Machine Lab
+      Review <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine">Vending Machine Lab</a> (ESW)
     </td>
     <td> <!-- Week 9 - Friday Morning 2 -->
       Review
@@ -58,10 +58,10 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-3">Angular w/ Testing</a>
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/angular-packages.md">Angular Packages</a> and <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-4/01-recap.md">Angular Recap</a>
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/angular-packages.md">Angular Packages</a> and <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-4/01-recap.md">Angular Recap</a> (ESW)
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 1 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab</a>
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab</a> (ESW)
     </td>
     <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
       Weekend Lab
@@ -78,7 +78,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-3">Angular w/ Testing</a>
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine">Vending Machine Lab</a>
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine">Vending Machine Lab</a> (ESW)
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 2 -->
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab</a>
