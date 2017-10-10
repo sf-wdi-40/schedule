@@ -6,6 +6,8 @@
 
 ## Tuesday, October 10
 1. Install [Python](https://hackercodex.com/guide/python-development-environment-on-mac-osx/)
+2. Browse capabilities of [@angular/core](https://angular.io/api/core), [@angular/common](https://angular.io/api/common), and [@angular/platform-browser](https://angular.io/api/platform-browser/BrowserModule)
+- Recognize which packages you have already used in your Angular apps
 
 ## Thursday, October 5
 1. Finish the Rails API lab. Come prepared with questions, if you have them.
