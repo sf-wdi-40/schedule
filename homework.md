@@ -1,8 +1,8 @@
 ## Wednesday, October 11
-1. Work on Vending Machine Lab (https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine/)
+1. Work on [Vending Machine Lab](https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine/)
 
 ## Tuesday, October 10
-1. Install Python: https://hackercodex.com/guide/python-development-environment-on-mac-osx/
+1. Install [Python](https://hackercodex.com/guide/python-development-environment-on-mac-osx/)
 
 ## Thursday, October 5
 1. Finish the Rails API lab. Come prepared with questions, if you have them.
