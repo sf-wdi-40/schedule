@@ -1,3 +1,6 @@
+## Tuesday, October 10
+1. Install Python: https://hackercodex.com/guide/python-development-environment-on-mac-osx/
+
 ## Thursday, October 5
 1. Finish the Rails API lab. Come prepared with questions, if you have them.
 2. Be prepared to answer the following interview questions: 
