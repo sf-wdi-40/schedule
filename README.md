@@ -23,7 +23,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/service-workers.md">Service Workers</a> (ESW)
     </td>
     <td> <!-- Week 9 - Thursday Morning 1 -->
-      Outcomes
+      Outcomes (Andy)
     </td>
     <td> <!-- Week 9 - Friday Morning 1 -->
       Review
@@ -81,7 +81,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine">Vending Machine Lab</a> (ESW)
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 2 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab</a>
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab</a> (ESW)
     </td>
     <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
