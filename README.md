@@ -42,7 +42,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/angular-universal.md">Angular Universal</a> (ESW)
     </td>
     <td> <!-- Week 9 - Thursday Morning 2 -->
-      Review <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine">Vending Machine Lab</a> (ESW)
+      Review <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine">Vending Machine Lab</a> and <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab – Adding a Feature</a> (ESW)
     </td>
     <td> <!-- Week 9 - Friday Morning 2 -->
       Review
@@ -61,7 +61,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/angular-packages.md">Angular Packages</a> and <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-4/01-recap.md">Angular Recap</a> (ESW)
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 1 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab</a> (ESW)
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab – Changing a Feature</a> (ESW)
     </td>
     <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
       Weekend Lab
@@ -81,7 +81,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine">Vending Machine Lab</a> (ESW)
     </td>
     <td> <!-- Week 9 - Thursday Afternoon 2 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab</a> (ESW)
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab – Fixing Bugs</a> (ESW)
     </td>
     <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
       Weekend Lab
