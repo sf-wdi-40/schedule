@@ -17,8 +17,7 @@
       (MF)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 1 -->
-      Drill
-      (tbd)
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-2">Angular w/ API</a> (MF)
     </td>
     <td> <!-- Week 9 - Wednesday Morning 1 -->
       Drill
@@ -39,8 +38,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-1">Intro Angular</a> (MF)
     </td>
     <td> <!-- Week 9 - Tuesday Morning 2 -->
-      Topic
-      (tbd)
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-2">Angular w/ API</a> (MF)
     </td>
     <td> <!-- Week 9 - Wednesday Morning 2 -->
       Topic
@@ -61,8 +59,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-1">Intro Angular</a>
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 1 -->
-      Topic
-      (tbd)
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-3">Angular w/ Testing</a>
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 1 -->
       Topic
@@ -84,8 +81,7 @@
       (MF)
     </td>
     <td> <!-- Week 9 - Tuesday Afternoon 2 -->
-      Topic
-      (tbd)
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-3">Angular w/ Testing</a>
     </td>
     <td> <!-- Week 9 - Wednesday Afternoon 2 -->
       Topic
