@@ -6,11 +6,13 @@
 
 ## Tuesday, October 10
 1. Install [Python](https://hackercodex.com/guide/python-development-environment-on-mac-osx/)
+2. Complete the [Observables lab](https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-03-a-observables).
+3. Complete the [testing lab](https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-03-b-testing).
 2. Browse the capabilities of major Angular packages like [@angular/core](https://angular.io/api/core), [@angular/common](https://angular.io/api/common), and [@angular/platform-browser](https://angular.io/api/platform-browser/BrowserModule); recognize which packages you've used in your Angular apps
 
 ## Thursday, October 5
 1. Finish the Rails API lab. Come prepared with questions, if you have them.
-2. Be prepared to answer the following interview questions: 
+2. Be prepared to answer the following interview questions:
    * Tell me a little bit about yourself and your software engineering experience.
    * What is MVC?
    * What happens when you type a URL into a browser?
