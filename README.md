@@ -23,7 +23,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/service-workers.md">Service Workers</a>
     </td>
     <td> <!-- Week 9 - Thursday Morning 1 -->
-      Review Vending Machine Lab
+      Outcomes
     </td>
     <td> <!-- Week 9 - Friday Morning 1 -->
       Review
@@ -42,7 +42,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/angular-universal.md">Angular Universal</a>
     </td>
     <td> <!-- Week 9 - Thursday Morning 2 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab</a>
+      Review Vending Machine Lab
     </td>
     <td> <!-- Week 9 - Friday Morning 2 -->
       Review
