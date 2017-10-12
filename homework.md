@@ -3,6 +3,7 @@
 
 ## Wednesday, October 11
 1. Finish [Vending Machine Lab](https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine/)
+2. Finish [Angular Universal](https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-3/angular-universal.md)
 
 ## Tuesday, October 10
 1. Install [Python](https://hackercodex.com/guide/python-development-environment-on-mac-osx/)
