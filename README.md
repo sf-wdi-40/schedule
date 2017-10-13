@@ -1,5 +1,126 @@
 > Find important links [here](important-info.md)!
 
+## Week 10: Reacting the Fool
+<!-- if you don't like the title blame Matt -->
+<table>
+  <tr>
+    <td>Oct 16-20</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 10 - Monday Morning 1 -->
+      Algorithms
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning 1 -->
+      Vending Machine 2: Electric Boogaloo
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning 1 -->
+      Review: React So Far
+      (ESW)
+    </td>
+    <td> <!-- Week 10 - Thursday Morning 1 -->
+      Redux
+      (ESW)
+    </td>
+    <td> <!-- Week 10 - Friday Morning 1 -->
+      Intro to Build Day
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 10 - Monday Morning 2 -->
+      Intro to React
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Tuesday Morning 2 -->
+      React Router
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Wednesday Morning 2 -->
+      React review or whatever we need
+      (ESW)
+    </td>
+    <td> <!-- Week 10 - Thursday Morning 2 -->
+      Redux
+      (ESW)
+    </td>
+    <td> <!-- Week 10 - Friday Morning 2 -->
+      Build Day
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon 1 -->
+      React 2
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon 1 -->
+      React Lifecycle Hooks & Todo Lab
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon 1 -->
+      MERN
+      (ESW)
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon 1 -->
+      Redux Lab
+      (ESW)
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
+      Build Day
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 10 - Monday Afternoon 2 -->
+      React ATM
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Tuesday Afternoon 2 -->
+      API Calls & Todo Lab
+      (MF)
+    </td>
+    <td> <!-- Week 10 - Wednesday Afternoon 2 -->
+      MERN
+      (ESW)
+    </td>
+    <td> <!-- Week 10 - Thursday Afternoon 2 -->
+      Redux Lab
+      (ESW)
+    </td>
+    <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
+      Build Day
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
+
 ## Week 9: Angular Adventures
 <table>
   <tr>
