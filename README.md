@@ -26,8 +26,8 @@
       Outcomes (Andy)
     </td>
     <td> <!-- Week 9 - Friday Morning 1 -->
-      Review
-      (team)
+      Algorithms
+      (MF)
     </td>
   </tr>
   <tr>
@@ -45,8 +45,8 @@
       Review <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine">Vending Machine Lab</a> and <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab – Adding a Feature</a> (ESW)
     </td>
     <td> <!-- Week 9 - Friday Morning 2 -->
-      Review
-      (team)
+      Angular benefits & <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-06-a-tunr-modeling-mongo">Tunr</a>
+      (MF)
     </td>
   </tr>
   <tr>
@@ -64,8 +64,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab – Changing a Feature</a> (ESW)
     </td>
     <td> <!-- Week 9 - Friday Afternoon 1 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-06-a-tunr-modeling-mongo">Tunr</a>
     </td>
   </tr>
   <tr>
@@ -84,8 +83,7 @@
       <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5">Coding in Existing Angular Codebases Lab – Fixing Bugs</a> (ESW)
     </td>
     <td> <!-- Week 9 - Friday Afternoon 2 / Weekend Lab -->
-      Weekend Lab
-      (tbd)
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-06-a-tunr-modeling-mongo">Tunr</a>
     </td>
   </tr>
   <tr>
