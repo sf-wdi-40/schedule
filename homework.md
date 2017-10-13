@@ -1,3 +1,9 @@
+## Friday, October 13
+1. Make it home safely on this spooky day!
+2. Finish the [Tunr project](https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-06-b-tunr-relationships-mongo) that we started in class. Getting through at least section B, sprint 1, is most important.
+3. Revisit any pieces of Angular that you found confusing or frustrating or projects that wouldn't work.
+4. If you want another resource to solidify your understanding of Angular, their [tutorial](https://angular.io/tutorial) is *really nice*. Under "Fundamentals" and "Techniques", they also cover advanced topics like security, the specifics of dependency injection, and internationalization. Or, if you want to build an Angular app and put it on Heroku, there are directions [here](https://git.generalassemb.ly/SF-WDI-40/module-angular2/blob/master/lectures/day-6/angular-and-heroku.md).
+
 ## Thursday, October 12
 1. Finish [Coding in Existing Angular Codebases Lab](https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/lectures/day-5)
 
