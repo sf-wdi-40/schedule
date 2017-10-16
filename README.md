@@ -26,7 +26,7 @@
       (ESW)
     </td>
     <td> <!-- Week 10 - Thursday Morning 1 -->
-      Redux
+      <a href="https://github.com/SF-WDI-LABS/react-redux">Redux</a>
       (ESW)
     </td>
     <td> <!-- Week 10 - Friday Morning 1 -->
@@ -49,7 +49,7 @@
       (ESW)
     </td>
     <td> <!-- Week 10 - Thursday Morning 2 -->
-      Redux
+      <a href="https://github.com/SF-WDI-LABS/react-redux">Redux</a>
       (ESW)
     </td>
     <td> <!-- Week 10 - Friday Morning 2 -->
@@ -72,7 +72,7 @@
       (ESW)
     </td>
     <td> <!-- Week 10 - Thursday Afternoon 1 -->
-      Redux Lab
+      <a href="https://github.com/SF-WDI-LABS/react-redux-shopping-cart">Redux Shopping Cart Lab</a>
       (ESW)
     </td>
     <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
@@ -94,7 +94,7 @@
       (ESW)
     </td>
     <td> <!-- Week 10 - Thursday Afternoon 2 -->
-      Redux Lab
+      <a href="https://github.com/SF-WDI-LABS/react-redux-shopping-cart">Redux Shopping Cart Lab</a>
       (ESW)
     </td>
     <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
