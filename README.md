@@ -18,8 +18,7 @@
       (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Morning 1 -->
-      Vending Machine 2: Electric Boogaloo
-      (MF)
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/03-router/03-react-router-intro.md">React Router</a> and <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App</a> (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Morning 1 -->
       Review: React So Far
@@ -37,11 +36,12 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 10 - Monday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/react-intro">Intro to React</a>
-      (MF)
+      <a href="https://github.com/SF-WDI-LABS/react-intro">Intro to React</a> and <a href=
+        "https://github.com/SF-WDI-LABS/react-intro-2">React 2</a>
+        (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Morning 2 -->
-      React Router
+      <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App</a>
       (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Morning 2 -->
@@ -59,9 +59,8 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 10 - Monday Afternoon 1 -->
-      <a href=
-      "https://github.com/SF-WDI-LABS/react-intro-2">React 2</a>
-      (MF)
+    <a href="https://github.com/SF-WDI-LABS/atm-react">React ATM</a>
+    (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon 1 -->
       React Lifecycle Hooks & Todo Lab
@@ -82,8 +81,8 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 10 - Monday Afternoon 2 -->
-      <a href="https://github.com/SF-WDI-LABS/atm-react">React ATM</a>
-      (MF)
+    <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine/">Vending Machine 2: Electric Boogaloo</a>
+    (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon 2 -->
       API Calls & Todo Lab
