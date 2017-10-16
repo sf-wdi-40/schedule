@@ -81,7 +81,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 10 - Monday Afternoon 2 -->
-    <a href="https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-04-vending-machine/">Vending Machine 2: Electric Boogaloo</a>
+    <a href="https://github.com/SF-WDI-LABS/react-vending-machine">Vending Machine 2: Electric Boogaloo</a>
     (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon 2 -->
