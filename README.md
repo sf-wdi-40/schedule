@@ -26,7 +26,7 @@
       (ESW)
     </td>
     <td> <!-- Week 10 - Thursday Morning 1 -->
-      <a href="https://github.com/SF-WDI-LABS/react-redux">Redux</a>
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/tree/master/lectures/05-redux">Redux</a>
       (ESW)
     </td>
     <td> <!-- Week 10 - Friday Morning 1 -->
@@ -49,7 +49,7 @@
       (ESW)
     </td>
     <td> <!-- Week 10 - Thursday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/react-redux">Redux</a>
+      <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/tree/master/lectures/05-redux">Redux</a>
       (ESW)
     </td>
     <td> <!-- Week 10 - Friday Morning 2 -->
