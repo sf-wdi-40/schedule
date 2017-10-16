@@ -37,7 +37,7 @@
   <tr>
     <td><strong>10:30-12:30</strong></td>
     <td> <!-- Week 10 - Monday Morning 2 -->
-      Intro to React
+      <a href="https://github.com/SF-WDI-LABS/react-intro">Intro to React</a>
       (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Morning 2 -->
@@ -59,7 +59,8 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 10 - Monday Afternoon 1 -->
-      React 2
+      <a href=
+      "https://github.com/SF-WDI-LABS/react-intro-2">React 2</a>
       (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon 1 -->
@@ -81,7 +82,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 10 - Monday Afternoon 2 -->
-      React ATM
+      <a href="https://github.com/SF-WDI-LABS/atm-react">React ATM</a>
       (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon 2 -->
