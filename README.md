@@ -44,7 +44,7 @@
     <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/03-router/03-react-router-intro.md">React Router</a> and <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App</a> (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Morning 2 -->
-      React review or whatever we need
+      React review 
       (ESW)
     </td>
     <td> <!-- Week 10 - Thursday Morning 2 -->
@@ -66,7 +66,7 @@
       (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon 1 -->
-      MERN
+      <a href="https://github.com/sf-wdi-40/reddit-clone-mern">Reddit Clone: MERN stack</a>
       (ESW)
     </td>
     <td> <!-- Week 10 - Thursday Afternoon 1 -->
@@ -88,7 +88,7 @@
       (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon 2 -->
-      MERN
+      <a href="https://github.com/sf-wdi-40/reddit-clone-mern">Reddit Clone: MERN stack</a>
       (ESW)
     </td>
     <td> <!-- Week 10 - Thursday Afternoon 2 -->
