@@ -62,7 +62,7 @@
     (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon 1 -->
-      React Lifecycle Hooks & Todo App
+      <a href="https://github.com/SF-WDI-LABS/react-component-lifecycle">React Lifecycle</a>, <a href="https://www.npmjs.com/package/axios">Axios</a> & finish Todo App
       (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon 1 -->
@@ -84,8 +84,7 @@
     (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon 2 -->
-      Todo App
-      (MF)
+      <a href="https://github.com/SF-WDI-LABS/react-giphy">React Giphy</a> (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon 2 -->
       <a href="https://github.com/sf-wdi-40/reddit-clone-mern">Reddit Clone: MERN stack</a>
