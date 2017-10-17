@@ -18,7 +18,7 @@
       (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Morning 1 -->
-      <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/03-router/03-react-router-intro.md">React Router</a> and <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App</a> (MF)
+      Algorithms: Interviews (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Morning 1 -->
       Review: React So Far
@@ -41,8 +41,7 @@
         (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Morning 2 -->
-      <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App</a>
-      (MF)
+    <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/03-router/03-react-router-intro.md">React Router</a> and <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App</a> (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Morning 2 -->
       React review or whatever we need
@@ -63,7 +62,7 @@
     (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon 1 -->
-      React Lifecycle Hooks & Todo Lab
+      React Lifecycle Hooks & Todo App
       (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon 1 -->
@@ -85,7 +84,7 @@
     (MF)
     </td>
     <td> <!-- Week 10 - Tuesday Afternoon 2 -->
-      API Calls & Todo Lab
+      Todo App
       (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Afternoon 2 -->
