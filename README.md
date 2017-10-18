@@ -29,7 +29,7 @@
       (ESW)
     </td>
     <td> <!-- Week 10 - Friday Morning 1 -->
-      Intro to Build Day
+      Intro to <a href="https://github.com/SF-WDI-LABS/angular-build">Build Day</a>
       (MF)
     </td>
   </tr>
@@ -44,7 +44,7 @@
     <a href="https://git.generalassemb.ly/SF-WDI-40/module-fe-framework-react/blob/master/lectures/03-router/03-react-router-intro.md">React Router</a> and <a href="https://github.com/SF-WDI-LABS/react_todo_walkthrough">React Todo App</a> (MF)
     </td>
     <td> <!-- Week 10 - Wednesday Morning 2 -->
-      React review 
+      React review
       (ESW)
     </td>
     <td> <!-- Week 10 - Thursday Morning 2 -->
@@ -52,7 +52,7 @@
       (ESW)
     </td>
     <td> <!-- Week 10 - Friday Morning 2 -->
-      Build Day
+      <a href="https://github.com/SF-WDI-LABS/angular-build">Build Day</a>
     </td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@
       (ESW)
     </td>
     <td> <!-- Week 10 - Friday Afternoon 1 / Weekend Lab -->
-      Build Day
+      <a href="https://github.com/SF-WDI-LABS/angular-build">Build Day</a>
     </td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@
       (ESW)
     </td>
     <td> <!-- Week 10 - Friday Afternoon 2 / Weekend Lab -->
-      Build Day
+      <a href="https://github.com/SF-WDI-LABS/angular-build">Build Day</a>
     </td>
   </tr>
   <tr>
