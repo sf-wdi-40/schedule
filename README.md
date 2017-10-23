@@ -1,6 +1,6 @@
 > Find important links [here](important-info.md)!
 
-## Week 11: <!-- TOPIC -->
+## Week 11: The Beginning Of The End
 <table>
   <tr>
     <td>Oct 23-27</td>
