@@ -1,3 +1,7 @@
+## Monday, October 23
+1. Finish your scraping project, as far as you'd like to go (possibly including building a quick site to use the data you've scraped).
+2. Read through the <a href="https://github.com/sf-wdi-40/project-04">final project</a> directions, come up with an idea, and possibly start your planning work.
+
 ## Friday, October 13
 1. Make it home safely on this spooky day!
 2. Finish the [Tunr project](https://git.generalassemb.ly/SF-WDI-40/module-angular2/tree/master/projects/project-06-b-tunr-relationships-mongo) that we started in class. Getting through at least section B, sprint 1, is most important.

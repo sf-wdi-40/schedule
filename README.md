@@ -51,7 +51,7 @@
   <tr>
     <td><strong>1:30-2:50</strong></td>
     <td> <!-- Week 11 - Monday Afternoon 1 -->
-      Scraping
+      <a href="https://github.com/SF-WDI-LABS/web-scraping-with-nokogiri">Scraping</a>
       (MF)
     </td>
     <td> <!-- Week 11 - Tuesday Morning 2 -->
@@ -70,7 +70,7 @@
   <tr>
     <td><strong>3:00-4:20</strong></td>
     <td> <!-- Week 11 - Monday Afternoon 2 -->
-      Scraping
+      <a href="https://github.com/SF-WDI-LABS/web-scraping-with-nokogiri">Scraping</a>
       (MF)
     </td>
     <td> <!-- Week 11 - Tuesday Morning 2 -->
