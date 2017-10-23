@@ -1,5 +1,112 @@
 > Find important links [here](important-info.md)!
 
+## Week 11: <!-- TOPIC -->
+<table>
+  <tr>
+    <td>Oct 23-27</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 11 - Monday Morning 1 -->
+      Science Fair
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning 1 -->
+      Algorithms (ESW)
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning 1 -->
+      Algorithms (MF)
+    </td>
+    <td> <!-- Week 11 - Thursday Morning 1 -->
+      Algorithms (MF)
+    </td>
+    <td> <!-- Week 11 - Friday Morning 1 -->
+      Algorithms
+      (MF)
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 11 - Monday Morning 2 -->
+      Algorithms & Real World Engineering
+      (MF/ESW)
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 11 - Thursday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 11 - Friday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon 1 -->
+      Scraping
+      (MF)
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 11 - Thursday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 11 - Friday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 11 - Monday Afternoon 2 -->
+      Scraping
+      (MF)
+    </td>
+    <td> <!-- Week 11 - Tuesday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 11 - Wednesday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 11 - Thursday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 11 - Friday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
+
 ## Week 10: Reacting the Fool
 <!-- if you don't like the title blame Matt -->
 <table>
