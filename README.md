@@ -16,7 +16,7 @@
       Science Fair
     </td>
     <td> <!-- Week 11 - Tuesday Morning 1 -->
-    Algorithms – Stacks vs <a href="https://github.com/SF-WDI-LABS/queues">Queues</a> (ESW)
+    Algorithms – <a href="https://github.com/SF-WDI-LABS/js-algorithms-drills/tree/master/stacks-and-queues">Stacks & Queues</a> (ESW)
     </td>
     <td> <!-- Week 11 - Wednesday Morning 1 -->
       Algorithms (MF)
