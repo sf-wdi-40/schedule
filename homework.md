@@ -1,3 +1,6 @@
+## Tuesday, October 24-end
+Final Project
+
 ## Monday, October 23
 1. Finish your scraping project, as far as you'd like to go (possibly including building a quick site to use the data you've scraped).
 2. Read through the <a href="https://github.com/sf-wdi-40/project-04">final project</a> directions, come up with an idea, and possibly start your planning work.

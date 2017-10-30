@@ -1,5 +1,109 @@
 > Find important links [here](important-info.md)!
 
+## Week 12: The End Of The End
+<table>
+  <tr>
+    <td>Oct 30-Nov 3</td>
+    <th>Monday</th>
+    <th>Tuesday</th>
+    <th>Wednesday</th>
+    <th>Thursday</th>
+    <th>Friday</th>
+  </tr>
+  <tr>
+    <td><strong>9:00-10:20</strong></td>
+    <td> <!-- Week 12 - Monday Morning 1 -->
+      Algorithms
+      (MF)
+    </td>
+    <td> <!-- Week 12 - Tuesday Morning 1 -->
+      Algorithms
+      (MF)
+    </td>
+    <td> <!-- Week 12 - Wednesday Morning 1 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Thursday Morning 1 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a> 1:1s
+    </td>
+    <td> <!-- Week 12 - Friday Morning 1 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a> 1:1s
+    </td>
+  </tr>
+  <tr>
+    <td><strong>10:30-12:30</strong></td>
+    <td> <!-- Week 12 - Monday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Tuesday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Wednesday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Thursday Morning 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Friday Morning 2 -->
+      Goodbyes & Graduation
+    </td>
+  </tr>
+  <tr>
+    <td><strong>1:30-2:50</strong></td>
+    <td> <!-- Week 12 - Monday Afternoon 1 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Tuesday Afternoon 1 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Wednesday Afternoon 1 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Thursday Afternoon 1 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Friday Afternoon 1 / Weekend Lab -->
+      Lunch, survey, last bits
+    </td>
+  </tr>
+  <tr>
+    <td><strong>3:00-4:20</strong></td>
+    <td> <!-- Week 12 - Monday Afternoon 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Tuesday Afternoon 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a>
+    </td>
+    <td> <!-- Week 12 - Wednesday Afternoon 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a> Presentations
+    </td>
+    <td> <!-- Week 12 - Thursday Afternoon 2 -->
+      <a href="https://github.com/sf-wdi-40/project-04">Final Project</a> Presentations
+    </td>
+    <td> <!-- Week 12 - Friday Afternoon 2 / Weekend Lab -->
+      Goodbye!
+    </td>
+  </tr>
+  <tr>
+    <td><strong>HW</strong></td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+    <td>
+      <a href="homework.md">See HW page</a>
+    </td>
+  </tr>
+</table>
+
 ## Week 11: The Beginning Of The End
 <table>
   <tr>
